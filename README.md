@@ -15,7 +15,7 @@ Começando
 Siga estas etapas para configurar e executar a API Sales em sua máquina local:
 
 Pré-requisitos
-Certifique-se de ter Java e Spring Boot instalados em sua máquina. Você pode encontrar instruções detalhadas nos sites oficiais:
+Certifique-se de ter Java e Spring Boot instalados em sua máquina. Você pode encontrar instruções detalhadas nos sites oficiais.
 
 • Java
 
